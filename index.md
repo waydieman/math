@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://sites.google.com/g-mail.nsysu.edu.tw/tempcity123) and ![Image](src)
+[Link](https://sites.google.com/g-mail.nsysu.edu.tw/tempcity123/) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
